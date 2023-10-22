@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: midnightblue;
+}
+
+form {
+    background-color: white;
+    display: inline-block;
+    padding: 20px 15px 50px 15px;
+    margin: 30vh 71vh;
+    border-radius: 10px;
+}
+
+button {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 5px 13px;
+    border-radius: 20px;
+}
+
+input { 
+    padding: 5px 13px;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+
+p {
+    margin-top: 10px;
+    margin-left: 25px;
+    color: midnightblue
+}
+h1{
+    margin-bottom: 10px;
+}

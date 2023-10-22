@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 30vh 40vw 0 40vw;
+    background-color: rgb(255, 154, 117);
+
+}
+
+label {
+    color: rgba(3, 5, 151, 0.658);
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    font-size: 2.5rem;
+    border: 3px solid blue;
+    border-radius: 10px;
+    background-color: white;
+}
+
+input {
+    font-size: 1.7rem;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+button {
+    font-size: 1.7rem;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+
+.result {
+    margin-top: 2vh;
+    font-weight: 500;
+
+
+}
+
+span {
+    font-size: 2.1rem;
+    font-weight: 500;
+    color: black;
+}
